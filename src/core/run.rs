@@ -1,5 +1,5 @@
-use crate::core::read::readline;
+use crate::core::read::prompt;
 
 pub fn run() {
-    readline();
+    prompt();
 }

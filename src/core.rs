@@ -1,4 +1,5 @@
 mod eval;
-mod parse;
+mod parser;
 mod read;
+mod token;
 pub mod run;
